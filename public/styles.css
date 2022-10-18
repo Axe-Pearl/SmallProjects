@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    background-image:url(clear\ sky.jpg);
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive;
+   font-size: 3rem;
+    margin: 10rem;
+}
+.details{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 2.5rem;
+    margin:-4rem 0 2rem 35%;
+}
